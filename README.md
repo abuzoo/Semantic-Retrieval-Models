@@ -10,4 +10,4 @@ List of awesome papers for Semantic Retrieval
 - [SPLADE v2: Sparse Lexical and Expansion Model for Information Retrieval](https://arxiv.org/abs/2109.10086)(Sep 21, 2021)    [(code)](https://github.com/naver/splade/tree/main?tab=readme-ov-file)
 - [From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective](https://arxiv.org/abs/2205.04733)(May 10, 2022)(SPLADE ++)    [(code)](https://github.com/naver/splade/tree/main?tab=readme-ov-file)
 - [SparTerm: Learning Term-based Sparse Representation for Fast Text Retrieval](https://arxiv.org/abs/2010.00768) (Oct 2, 2020) (HuaWei)
-- [From doc2query to docTTTTTquery](https://cs.uwaterloo.ca/~jimmylin/publications/Nogueira_Lin_2019_docTTTTTquery-v2.pdf) (Dec 2, 2019)  [(code)](https://github.com/castorini/docTTTTTquery) 
+- [From doc2query to docTTTTTquery](https://cs.uwaterloo.ca/~jimmylin/publications/Nogueira_Lin_2019_docTTTTTquery-v2.pdf) (Dec 2, 2019)  [(code)](https://github.com/castorini/docTTTTTquery) [(PPT)](https://liuquncn.github.io/talks/20210602-BAAI-IR-Forum/SparTerm%20Learning%20Term-based%20Sparse%20Representation.pdf)
