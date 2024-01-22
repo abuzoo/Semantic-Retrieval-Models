@@ -1,6 +1,7 @@
 # Semantic-Retrieval-Models
 List of awesome papers for Semantic Retrieval
 ----
+- [Generative Dense Retrieval: Memory Can Be a Burden](https://arxiv.org/abs/2401.10487)(Jan 19, 2024)[(code)](https://github.com/ypw0102/GDR) (Xiaohongshu Inc)
 - [Foundations of Vector Retrieval](https://arxiv.org/abs/2401.09350)(Jan 17, 2024)
 - [Improved Learned Sparse Retrieval with Corpus-Specific Vocabularies](https://arxiv.org/abs/2401.06703)(Jan 12, 2024)
 - [CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval](https://arxiv.org/abs/2311.02834)(Nov 6, 2023)
