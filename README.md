@@ -1,6 +1,7 @@
 # Semantic-Retrieval-Models
 List of awesome papers for Semantic Retrieval
 ----
+- [DREditor: An Time-efficient Approach for Building a Domain-specific Dense Retrieval Model](https://arxiv.org/pdf/2401.12540.pdf) (Jan 23, 2024) 
 - [Drop your Decoder: Pre-training with Bag-of-Word Prediction for Dense Passage Retrieval](https://arxiv.org/pdf/2401.11248.pdf) (Jan 22, 2024) KuaiShou
 - [Generative Dense Retrieval: Memory Can Be a Burden](https://arxiv.org/abs/2401.10487)(Jan 19, 2024)[(code)](https://github.com/ypw0102/GDR) Xiaohongshu
 - [Foundations of Vector Retrieval](https://arxiv.org/abs/2401.09350)(Jan 17, 2024)
