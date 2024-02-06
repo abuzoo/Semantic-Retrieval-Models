@@ -1,6 +1,7 @@
 # Semantic-Retrieval-Models
 List of awesome papers for Semantic Retrieval
 ----
+- [List-aware Reranking-Truncation Joint Model for Search and Retrieval-augmented Generation](https://arxiv.org/pdf/2402.02764.pdf) (Feb 5, 2024)
 - [Frechet Distance for Offline Evaluation of Information Retrieval Systems with Sparse Labels](https://arxiv.org/pdf/2401.17543.pdf) (Jan 31, 2024) University of Waterloo
 - [DREditor: An Time-efficient Approach for Building a Domain-specific Dense Retrieval Model](https://arxiv.org/pdf/2401.12540.pdf) (Jan 23, 2024) 
 - [Drop your Decoder: Pre-training with Bag-of-Word Prediction for Dense Passage Retrieval](https://arxiv.org/pdf/2401.11248.pdf) (Jan 22, 2024) KuaiShou
